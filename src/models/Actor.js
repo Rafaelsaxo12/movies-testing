@@ -23,4 +23,3 @@ const Actor = sequelize.define('actor', {
 });
 
 module.exports = Actor;
-// firstName:,lastName:, nationality:, image, birthday:
